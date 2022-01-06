@@ -11,7 +11,7 @@ const App = () => {
       <Spaces clientId="test">
         <PageHeader appName="Dev Sign In" />
         <BlockUi>
-          <DevSignInCard dev="Bill VanDuzee" />
+          <DevSignInCard dev="William VanDuzee" />
         </BlockUi>
       </Spaces>
       <Footer />
